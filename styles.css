@@ -40,3 +40,7 @@ section {
   margin: 1rem;
   border: 1px solid #ccc;
 }
+.hero {
+  position: relative;
+  min-height: 80px;
+}
