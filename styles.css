@@ -89,3 +89,8 @@ section {
   padding: 1rem;
   border: 1px solid #ccc;
 }
+@media (max-width: 600px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+}
